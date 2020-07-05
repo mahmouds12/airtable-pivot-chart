@@ -1,4 +1,4 @@
-# Simple chart block
+# Airtable Pivot Chart block
 
 This example blocks shows a bar chart of data from a table.
 
