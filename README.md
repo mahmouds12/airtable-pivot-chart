@@ -21,4 +21,4 @@ The code shows:
 
 ## See the block running
 
-![Block updating chart as the user changes data](media/block.gif)
+[Pivot Chart in Action](https://www.loom.com/share/f9586542827f49a5a78f96c9dbb31866)
