@@ -1,12 +1,5 @@
 # Airtable Pivot Chart block
-
-This example blocks shows a bar chart of data from a table.
-
-The code shows:
-
--   How to use the Chart.js external library.
-
--   How to store block-related data using `globalConfig` and `Synced` UI components.
+In our company airtable base, I wanted to get the prices for each products for the past 2 months in order to be able to tell our sales team estimates for the pricing so that they can answer our customers directly by phone or on chat, without telling them to wait for the prices from our vendors
 
 ## How to run this block
 
@@ -14,8 +7,7 @@ The code shows:
    [Sales CRM template](https://airtable.com/templates/sales-and-customers/expvjTzYAZareV1pt/sales-crm).
 
 2. Create a new block in your new base (see
-   [Create a new block](https://airtable.com/developers/blocks/guides/hello-world-tutorial#create-a-new-block),
-   selecting "Simple chart" as your template.
+   [Create a new block](https://airtable.com/developers/blocks/guides/hello-world-tutorial#create-a-new-block)
 
 3. From the root of your new block, run `block run`.
 
